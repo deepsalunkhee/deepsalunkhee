@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deep Salunkhe</h1>
+<center><h1 align="center">Hi 👋, I'm Deep Salunkhe</h1>
 <h3 align="center">A curious Tech Geek also a Computer Engineer</h3>
 
 - 🌱 I’m currently learning **DSA,ML,AI and much more😁**
@@ -27,6 +27,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsalunkhee&show_icons=true&locale=en&layout=compact" alt="deepsalunkhee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsalunkhee&" alt="deepsalunkhee" /></p>
+  
+ </center>
 
 <!---
 deepsalunkhee/deepsalunkhee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
