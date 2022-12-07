@@ -1,7 +1,7 @@
 <center><h1 align="center">Hi 👋, I'm Deep Salunkhe</h1>
 <h3 align="center">A curious Tech Geek also a Computer Engineer</h3>
   
- <h2  align="center">
+
 
 - 🌱 I’m currently learning **DSA,ML,AI and much more😁**
 
@@ -14,11 +14,10 @@
 - 📄 Know about my experiences [https://deepsalunkhee.github.io/deepsalunkhe/](https://deepsalunkhee.github.io/deepsalunkhe/)
 
 - ⚡ Fun fact **I am Normal**
-   
-  </h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/deep salunkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep salunkhe" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepsalunkhee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepsalunkhee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/deepsalunkhee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="deepsalunkhee" height="30" width="40" /></a>
