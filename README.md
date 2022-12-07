@@ -1,5 +1,7 @@
 <center><h1 align="center">Hi 👋, I'm Deep Salunkhe</h1>
 <h3 align="center">A curious Tech Geek also a Computer Engineer</h3>
+  
+ <h2  align="center">
 
 - 🌱 I’m currently learning **DSA,ML,AI and much more😁**
 
@@ -12,6 +14,8 @@
 - 📄 Know about my experiences [https://deepsalunkhee.github.io/deepsalunkhe/](https://deepsalunkhee.github.io/deepsalunkhe/)
 
 - ⚡ Fun fact **I am Normal**
+   
+  </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
