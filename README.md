@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deepsalunkhee@gmail.com**
 
-- 📄 Know about my experiences [https://deepsalunkhee.github.io/deepsalunkhe/](https://deepsalunkhee.github.io/deepsalunkhe/)
+- 📄 Know about my experiences [https://deepsalunkhe.vercel.app/)
 
 - ⚡ Fun fact **I am Normal**
 
