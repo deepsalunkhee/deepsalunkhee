@@ -24,6 +24,12 @@
     <a href="https://auth.geeksforgeeks.org/user/deepsalunkhee" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
     </a>
+    <a href="https://leetcode.com/deepsalunkhee/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+    </a>
+     <a href="https://twitter.com/DeepSalunkhee" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
   </p>
   
   <h3>Languages and Tools:</h3>
