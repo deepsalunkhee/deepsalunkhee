@@ -9,7 +9,7 @@
     📄 Know about my experiences <a href="https://deepsalunkhe.vercel.app/">here</a><br>
     ⚡ Fun fact: <strong>I am normal</strong>
   </p>
-  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepsalunkhee&label=Profile%20views&color=0e75b6&style=flat" alt="deepsalunkhee" /> </p>
   <h3>Connect with me:</h3>
   <p>
     <a href="https://linkedin.com/in/deep salunkhe" target="_blank">
