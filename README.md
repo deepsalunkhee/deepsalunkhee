@@ -60,7 +60,7 @@
 Transactions history,change password,forgot password handling.</li>
       <li>Explored Deployment using AWS app service , amplify, EC2,github actions, docker and CI/CD uisng YML.</li>
     </ul>
-    <a href="https://hostel-bank.vercel.app">Demo</a> | <a href="https://github.com/deepsalunkhee/Hostel_Bank">Code</a> | <a href="https://shorturl.at/bkswN">Video</a>
+    <a href="https://hostel-bank.vercel.app">Demo</a> | <a href="https://github.com/deepsalunkhee/Hostel_Bank">Code</a> | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7165593423758942208/">Video</a>
   </details>
   <details>
     <summary><strong>AngleEye</strong> - Real-Time Location Sharing App</summary>
