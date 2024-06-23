@@ -51,6 +51,17 @@
 
   <!-- Projects -->
   <h3>🚀 Favourite  Projects</h3>
+
+  <details>
+    <summary><strong>Hostel Bank</strong> - Financial Management application App</summary>
+    <ul>
+      <li>Built using React,express,Mongodb,Tailwind ,used bcrypt and JWT for auth,used Brevo for sending notification.</li>
+      <li>Features: Creating and joining groups, sending and settling money request, in app notification,
+Transactions history,change password,forgot password handling.</li>
+      <li>Explored Deployment using AWS app service , amplify, EC2,github actions, docker and CI/CD uisng YML.</li>
+    </ul>
+    <a href="https://hostel-bank.vercel.app">Demo</a> | <a href="https://github.com/deepsalunkhee/Hostel_Bank">Code</a> | <a href="https://shorturl.at/bkswN">Video</a>
+  </details>
   <details>
     <summary><strong>AngleEye</strong> - Real-Time Location Sharing App</summary>
     <ul>
@@ -91,26 +102,7 @@
     <a href="https://akcrh-by-deepsalunkhe.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/AKCRH-MERN">Code</a>
   </details>
 
-  <!-- Leadership and Extracurricular -->
-  <h3>🌟 Leadership / Extracurricular</h3>
-  <ul>
-    <li><strong>IEEE-VIT | TECH-WEB TEAM</strong> (Aug 2022 - June 2023)
-      <ul>
-        <li>Managed IEEE-VIT's official website, including regular updates and maintenance.</li>
-        <li>Developed websites for tech festivals, providing event information and registration features.</li>
-        <li>Handled technical aspects and coordinated with team members to ensure the successful execution of tech fests.</li>
-      </ul>
-    </li>
-    <li><strong>UNSTOP-VIT | SPONSORSHIP CORE</strong> (Mar 2022 - Dec 2022)
-      <ul>
-      
-<li>Secured event sponsors to support college initiatives and activities.</li>
-        <li>Maintained relationships with previous sponsors for continued support and partnership.</li>
-        <li>Coordinated with core team members to gather necessary resource details for successful events.</li>
-      </ul>
-    </li>
-  </ul>
-<!--Status-->
+  <!--Status-->
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <p>
