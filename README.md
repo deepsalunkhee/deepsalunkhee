@@ -25,6 +25,7 @@
   <p >
     <!-- Tech Stack -->
     <a href="#"><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
     <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" /></a>
@@ -36,24 +37,37 @@
     <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
     <a href="#"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Webrtc-DC382D?style=for-the-badge&logo=webrtc&logoColor=white" alt="Webrtc" /></a>
+
   
   <a href="#"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git-GitHub" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /></a>
+
 
   </p>
 
 
 
   <!-- Projects -->
-  <h3>🚀 Favourite  Projects</h3>
+  <h3>🚀 Some of my Favourite Projects I have built during my Engineering 😤 </h3>
 
   <details>
-    <summary><strong>Hostel Bank</strong> - Financial Management application App</summary>
+    <summary><strong>BlockMeet</strong> - Decentralized video conferencing application</summary>
+    <ul>
+      <li>Rather than using traditional SFU based architecture here I have use our In house Decentralized Hydrocarbon based architechture</li>
+      <li>Features: SignIn/SignUp (used JWT here),Creating and joining meet, Decentralized file storage using IPFS,Decentralized logging on Polygon test net </li>
+      <li>Core Tech Stack: React,tailwind css,node-express,websocket,webrtc,Hardhat,solidity</li>
+    </ul>
+    <a href="https://block-meet.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/BlockMeet">Code</a> | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7274278717944664064/">Video</a>
+  </details>
+
+  <details>
+    <summary><strong>Hostel Bank</strong> - Group Finance Management application </summary>
     <ul>
       <li>Built using React,express,Mongodb,Tailwind ,used bcrypt and JWT for auth,used Brevo for sending notification.</li>
       <li>Features: Creating and joining groups, sending and settling money request, in app notification,
@@ -69,7 +83,7 @@ Transactions history,change password,forgot password handling.</li>
       <li>Implemented Express server with 5 API routes, leveraging MongoDB as the database.</li>
       <li>Achieved real-time location sharing through a function that updates and sends current location every minute.</li>
     </ul>
-    <a href="https://angle-eye.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/AngleEye-MERN">Code</a> | <a href="https://shorturl.at/bkswN">Video</a>
+    <a href="https://angle-eye.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/AngleEye-MERN">Code</a> | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7081887637745111040/">Video</a>
   </details>
   
   <details>
@@ -79,7 +93,7 @@ Transactions history,change password,forgot password handling.</li>
       <li>Developed API routes for user signin, signup, data retrieval from DB, and displaying ordered data.</li>
       <li>Implemented JWT and bcrypt for enhanced data security in case of DB compromise.</li>
     </ul>
-    <a href="https://bro-food.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/Bro-Food-MERN">Code</a> | <a href="https://shorturl.at/jmBFY">Video</a>
+    <a href="https://bro-food.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/Bro-Food-MERN">Code</a> | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7025070234503897088/">Video</a>
   </details>
 
   <details>
@@ -89,7 +103,7 @@ Transactions history,change password,forgot password handling.</li>
       <li>Implemented API handling, data fetching, and frontend data display using destructuring.</li>
       <li>Managed frontend-to-backend request handling for seamless user experience.</li>
     </ul>
-    <a href="https://developer-times-project-front.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/Developer-Times-Project">Code</a> | <a href="https://shorturl.at/psOP3">Video</a>
+    <a href="https://developer-times-project-front.vercel.app/">Demo</a> | <a href="https://github.com/deepsalunkhee/Developer-Times-Project">Code</a> | <a href="https://www.linkedin.com/feed/update/urn:li:activity:7032406749269700608/">Video</a>
   </details>
   
   <details>
@@ -118,7 +132,7 @@ Transactions history,change password,forgot password handling.</li>
   <!-- More About Me -->
   <h3>More About Me</h3>
   <ul>
-    <li><strong>Achievements</strong>: 200+ Questions on LeetCode, 400+ Points on GFG, 2 stars on CodeChef, rank-158 in November Long 2022 CodeChef.</li>
+    <li><strong>Achievements</strong>: 600+ Questions on LeetCode & 1700+ contest rating, 700+ Points on GFG, 2 stars on CodeChef</li>
     <li><strong>Interests</strong>: Technology, Problem Solving, Standup Comedy.</li>
     <li><strong>Languages</strong>: English, Hindi, Marathi.</li>
   </ul>
