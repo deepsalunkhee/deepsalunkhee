@@ -102,8 +102,3 @@
   - [Demo](https://akcrh-by-deepsalunkhe.vercel.app/) | [Code](https://github.com/deepsalunkhee/AKCRH-MERN)
 </details>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepsalunkhee&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepsalunkhee&theme=dark)
