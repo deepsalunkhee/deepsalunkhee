@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=deepsalunkhee&label=Profile%20views&color=0e75b6&style=flat)
 
-🌟 A passionate Computer Engineering student and Tech Enthusiast 🚀
+🌟 A Computer Engineering student and A Geek 🤓
 
 ## Connect with Me
 
