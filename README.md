@@ -126,12 +126,5 @@
   - [Demo](https://devtimes.deepsalunkhee.com/) | [Code](https://github.com/deepsalunkhee/Developer-Times-Project) | [Video](https://www.linkedin.com/feed/update/urn:li:activity:7032406749269700608/)
 </details>
 
-<details>
-  <summary><strong>AKCRH</strong> - Social Media Application</summary>
-  
-  - Developed a full-stack web application in the early stages of learning web development
-  - Implemented secure password hashing with bcrypt for enhanced data security
-  - Leveraged middleware packages like body-parser and cors for efficient request handling
-  - [Demo](https://akcrh.deepsalunkhee.com/) | [Code](https://github.com/deepsalunkhee/AKCRH-MERN)
-</details>
+
 
