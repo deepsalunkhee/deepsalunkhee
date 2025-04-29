@@ -55,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 🚀 Some of my Favourite Projects I have built during my Engineering 😤
+## 🚀Here are some of my favourite projects I built during my engineering.😤
 
 <details>
   
