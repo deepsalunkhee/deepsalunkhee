@@ -62,7 +62,7 @@
    <summary><strong>DailyCanvas</strong> -Basically a todo application , but from the point of view of week.</summary>
   
   - Sign in with Google OAuth and enjoy a smooth, paper-like UI for a natural writing experience.
-  - Create a fresh canvas each week with a full week overview and assign todos to specific days (Monday–Sunday).
+  - Create a fresh canvas each week with a full week overview and assign todos to specific days (Sunday – Saturday).
   - Easily add, edit, and organize todos with features like marking as done or scratching them with black/blue strike-through lines.
   - Personalize your todos using color coding (black or blue) for better visual organization.
 
